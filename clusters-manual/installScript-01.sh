@@ -73,7 +73,7 @@ echo \
 #--------------------------------------------------------------------
   
 #Call script 2
-sh ./installScript-02.sh
+sudo sh ./installScript-02.sh
 
 
   

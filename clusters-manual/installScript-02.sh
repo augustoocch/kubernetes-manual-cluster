@@ -57,7 +57,7 @@ EOF
 #------------------------------------------------------------------
 
 #Call script 3
-sh ./installScript-03.sh
+sudo sh ./installScript-03.sh
 
 
 
